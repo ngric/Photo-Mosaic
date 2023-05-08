@@ -33,3 +33,15 @@ curl --location 'https://gis-search-anfpnmc32a-uc.a.run.app' \
   "receiver": "YOUR EMAIL HERE"
 }'
 ```
+
+## Jupyter Notebook CS445_Final_Project.ipynb
+
+Run this notebook to generate the mosaic.
+
+Requirements:
+
+- A target image in the same folder as the notebook "GW_target_image_big3.jpeg"
+- All the pictures downloaded with the scraper used to sample from in a folder called "/images_raw"
+
+
+
